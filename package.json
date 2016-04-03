@@ -12,7 +12,7 @@
     "openpicker": "latest"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": ">=4.0.0"
   },
   "repository": {
     "type": "git",
