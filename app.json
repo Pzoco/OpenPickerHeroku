@@ -1,7 +1,7 @@
 {
   "name": "OpenPicker on Heroku",
   "description": "A one click environment for OpenPicker deployment on Heroku",
-  "repository": "https://github.com/gauravtiwari5050/OpenPickerHeroku",
+  "repository": "https://github.com/Pzoco/OpenPickerHeroku",
   "keywords": ["node", "express", "openpicker"],
   "image": "heroku/nodejs"
 }

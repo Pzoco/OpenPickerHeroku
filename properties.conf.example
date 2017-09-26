@@ -4,4 +4,4 @@ AWS_REGION = your_aws_region_here
 S3_BUCKET = your_s3_bucket_name_here
 FILESTORES = s3,disk
 MIN_SIZE = 1
-MAX_SIZE = 5242880
+MAX_SIZE = 20971520
